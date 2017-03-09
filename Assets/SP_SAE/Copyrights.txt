@@ -1,0 +1,8 @@
+"SpriterPro .scml scripting animation examples" 
+unity asset store package is based upone Spriter Unity API provided by Luka "loodakrawa" Sverko.
+"SpriterDotNet" and "SpriterDotNetExamples" folders contain "LICENSE.txt" file which refers to
+"loodakrawa" Copyrights.
+
+"ART" folder:
+"ScriptsSAE" folder:
+"SpriterProFiles\SpriterPro_SAEProject" folder:

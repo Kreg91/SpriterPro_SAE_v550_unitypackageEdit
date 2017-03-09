@@ -1,0 +1,12 @@
+This Unity package does not require instaling any additional files. 
+Its based upon Spriter API that can be found in following links. 
+After becoming familiar with examples in this package you could 
+establish your own Unity/SpriterPro (2D Platformer) project.
+
+
+Basic UnitySpriterAnimator class properties and methods:
+https://github.com/loodakrawa/SpriterDotNet/blob/develop/README.md#animator
+
+Link to Spriter API: https://brashmonkey.com/spriter-api/
+Link to Spriter Unity API download: https://github.com/loodakrawa/SpriterDotNet/tree/develop/SpriterDotNet.Unity
+Link to Spriter Unity API forum thread: https://brashmonkey.com/forum/index.php?/topic/4477-spriterdotnetunity/
